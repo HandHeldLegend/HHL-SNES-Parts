@@ -1,0 +1,35 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.6*%
+%TF.CreationDate,2023-09-26T13:21:34-07:00*%
+%TF.ProjectId,snes_trigger_tactile,736e6573-5f74-4726-9967-6765725f7461,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Bot*%
+%TF.FilePolarity,Negative*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.6) date 2023-09-26 13:21:34*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+G04 Aperture macros list*
+%AMRotRect*
+0 Rectangle, with rotation*
+0 The origin of the aperture is its center*
+0 $1 length*
+0 $2 width*
+0 $3 Rotation angle, in degrees counterclockwise*
+0 Add horizontal line*
+21,1,$1,$2,0,0,$3*%
+G04 Aperture macros list end*
+%ADD10RotRect,1.000000X1.000000X45.000000*%
+%ADD11RotRect,1.000000X1.000000X315.000000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,J1*%
+X53797200Y-18592800D03*
+%TD*%
+D11*
+%TO.C,J2*%
+X71831200Y-18643600D03*
+%TD*%
+M02*
